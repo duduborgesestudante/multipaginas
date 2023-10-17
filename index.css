@@ -43,8 +43,10 @@ button{
     margin-top: 70px;
 }
 #bd:hover{
-    scale:  3.0 ;
+    scale:  2.0 ;
 }
+#bd{
+    transition: 1s
 #r{
     color: red;
     font-size: 25px;
