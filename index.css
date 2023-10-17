@@ -1,0 +1,51 @@
+.voltar{
+    display: flex;
+    flex-direction: row;
+    width: 70px;
+    
+}
+h3{
+    margin-left: 20px;
+}
+#titulo{
+    font-size: 60px;
+}
+body{
+    background-image: url(
+        "https://img.freepik.com/vetores-premium/fundo-roxo-e-azul-gradiente-abstrato_77895-77.jpg"
+        ); 
+        background-size: cover;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: blueviolet;
+    color: beige;
+    border-radius: 6px;
+    height: 50px;
+    box-shadow: 0px 2px 5px 3px whitesmoke;
+}
+#sobre_mim{
+    font-size: 20px;
+    margin-top: 70px;
+}
+#interesse{
+    font-size: 20px;
+    margin-top: 70px;
+}
+#bd:hover{
+    scale:  3.0 ;
+}
+#r{
+    color: red;
+    font-size: 25px;
+}
